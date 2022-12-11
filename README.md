@@ -25,4 +25,4 @@
 </video>
 ```
 3. Result (access localhost:3000):
-![image](/videos/it-works.gif)
+![image](/videos/result.png)
